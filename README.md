@@ -32,7 +32,6 @@ Clean architecture and separation of concerns following best practices.
 - GraphQL (API pública)
 - React Router DOM
 - Vite aliases (`@components`, `@api`, etc.)
-## Instalación
 
 ## Installation
 
@@ -41,12 +40,10 @@ Clean architecture and separation of concerns following best practices.
     `cd rick-and-morty-search`
     `npm install`
 
-
 ## Usage
 
 1.  Start the development server: `npm run dev`
    The app will open at http://localhost:5173
-
 
 ## Testing
 
