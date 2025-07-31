@@ -33,7 +33,7 @@
         "@api/*": ["api/*"],
         "@pages/*": ["pages/*"],
         "@routing/*": ["routing/*"],
-        "@assets/*": ["assets*"],
+        "@assets/*": ["assets/*"],
         
       }
     

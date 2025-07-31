@@ -18,6 +18,7 @@ export default defineConfig({
       "@pages": path.resolve(__dirname, "src/pages"),
       "@routing": path.resolve(__dirname, "src/routing"),
       "@assets": path.resolve(__dirname, "src/assets"),
+      "@interface": path.resolve(__dirname, "src/features/characters/types"),
     },
   },
 });
