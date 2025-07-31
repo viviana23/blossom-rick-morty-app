@@ -29,7 +29,7 @@ Clean architecture and separation of concerns following best practices.
 - TypeScript
 - TailwindCSS v4
 - Apollo Client
-- GraphQL (API pública)
+- GraphQL (public API)
 - React Router DOM
 - Vite aliases (`@components`, `@api`, etc.)
 
